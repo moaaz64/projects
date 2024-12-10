@@ -313,7 +313,15 @@ margin-top: 100px;
 }
 }
 @media screen and (max-width:900px){
-    .box3{
+    .box3 .img1{
+        margin-left: 0px;
+        margin-left: 0px;
+    }
+    .box3 .img2{
+        margin-left: 0px;
+        margin-left: 0px;
+    }
+    .box3 .img3{
         margin-left: 0px;
         margin-left: 0px;
     }
